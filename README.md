@@ -8,11 +8,11 @@ A continuación te dejamos lineamientos generales para la incorporación de proy
 
 ### Paso 1: Generar un repositorio
 
-|["/Images/repo1"]("/Images/repo1")
+!["/Images/repo1.png"]("/Images/repo1.png")
 
 ### Paso 2: Definir un repositorio
 
-|["/Images/repo1"]("/Images/repo2")
+!["/Images/repo1"]("/Images/repo2.png")
 
 Nuestros repositorios siempre deben tener estos ajustes: 
 
@@ -25,7 +25,7 @@ Nuestros repositorios siempre deben tener estos ajustes:
 
 ### Paso 3: Trabajar el repositorio desde mi entorno local
 
-|["/Images/repo1"]("/Images/repo3")
+!["/Images/repo3.png"]("/Images/repo3.png")
 
 Con esto puedes utilizar el link de acceso al repositorio y conectarte desde cualquier Interfaz de Desarrollo de Aplicaciones: RStudio, Visual Studio Code, Positron.
 
@@ -52,9 +52,11 @@ Se espera que los repositorios tengan una estructura estandarizada:
 
 ### Acerca del README file
 
-El README es una descripción del código del proyecto 
+El README es una descripción del proyecto y su contenido: 
 
-Puedes encontrar una plantilla aquí: 
+!["/Images/readme.png"]("/Images/readme.png")
+
+Puedes encontrar una plantilla aquí: [https://github.com/ClimChange-NewbornHealth/Lineamientos_colaboradores/blob/main/Plantilla_README.md?plain=1](https://github.com/ClimChange-NewbornHealth/Lineamientos_colaboradores/blob/main/Plantilla_README.md?plain=1)
 
 ### Sobre la disponibilidad de datos en los repositorios 
 
@@ -62,6 +64,6 @@ En el repositorio solo estarán disponibles todos los códigos para replicar los
 
 Puede revisar un ejemplo aquí: [https://github.com/ClimChange-NewbornHealth/CIIIA-ClimateBirthWeightAnalysis](https://github.com/ClimChange-NewbornHealth/CIIIA-ClimateBirthWeightAnalysis)
 
-|["/Images/data1"]("/Images/data1")
+!["/Images/data1.png"]("/Images/data1.png")
 
-|["/Images/data2"]("/Images/data2")
+!["/Images/data2.png"]("/Images/data2.png")
