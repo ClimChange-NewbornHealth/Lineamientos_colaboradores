@@ -8,11 +8,13 @@ A continuación te dejamos lineamientos generales para la incorporación de proy
 
 ### Paso 1: Generar un repositorio
 
-![](/Images/repo1.png){height=400px width=500px}
+<img src="/Images/repo1.png" width="1200" heigth="1200" />
+
+![](/Images/repo1.png)
 
 ### Paso 2: Definir un repositorio
 
-![](/Images/repo2.png){width="150"}
+![](/Images/repo2.png)
 
 Nuestros repositorios siempre deben tener estos ajustes: 
 
@@ -25,7 +27,7 @@ Nuestros repositorios siempre deben tener estos ajustes:
 
 ### Paso 3: Trabajar el repositorio desde mi entorno local
 
-![](/Images/repo3.png){heigth="150"}
+![](/Images/repo3.png)
 
 Con esto puedes utilizar el link de acceso al repositorio y conectarte desde cualquier Interfaz de Desarrollo de Aplicaciones: RStudio, Visual Studio Code, Positron.
 
