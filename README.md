@@ -4,6 +4,8 @@ Bienvenido/a a nuestro proyecto de trabajo acerca de exposición ambienta y efec
 
 A continuación te dejamos lineamientos generales para la incorporación de proyectos colaboradores al proyecto. En términos generales cualquier persona puede hacer un `fork` o copia de nuestros repositorios por lo que es importante estandarizar algunos procedimientos. 
 
+Dudas y solicitudes de acceso: :mailbox_with_mail: José Daniel Conejeros (<jdconejeros@uc.cl>) - **Research Collaborator - Repository Manager**
+
 ## Generar nuevos repositorios 
 
 ### Paso 1: Generar un repositorio
