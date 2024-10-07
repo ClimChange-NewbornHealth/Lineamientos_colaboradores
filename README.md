@@ -12,7 +12,7 @@ A continuación te dejamos lineamientos generales para la incorporación de proy
 
 ### Paso 2: Definir un repositorio
 
-!["/Images/repo1"]("/Images/repo2.png")
+![](/Images/repo2.png)
 
 Nuestros repositorios siempre deben tener estos ajustes: 
 
@@ -25,7 +25,7 @@ Nuestros repositorios siempre deben tener estos ajustes:
 
 ### Paso 3: Trabajar el repositorio desde mi entorno local
 
-!["/Images/repo3.png"]("/Images/repo3.png")
+![](/Images/repo3.png)
 
 Con esto puedes utilizar el link de acceso al repositorio y conectarte desde cualquier Interfaz de Desarrollo de Aplicaciones: RStudio, Visual Studio Code, Positron.
 
@@ -54,7 +54,14 @@ Se espera que los repositorios tengan una estructura estandarizada:
 
 El README es una descripción del proyecto y su contenido: 
 
-!["/Images/readme.png"]("/Images/readme.png")
+![](/Images/readme.png)
+
+1. Título: claro, preciso. Idealmente el título del artículo.
+2. Métricas del repositorio y financiamiento: revisar plantilla.
+3. Autores: Autor principal dejar casilla de correo + co-investigadores + Mantenedor/a del repositorio.
+4. Descripción del repositorio: background general + objetivos + métodos + discusión. Obtener esto del abstract.
+5. Acceso a los datos: link a los datos y señalar los códigos a ejecutar. Los datos deben estar en otro espacio y deben ser principalmente datos de análisis. 
+6. Principales resultados: figuras y tablas numeradas y con notas explicativas de ser el caso. 
 
 Puedes encontrar una plantilla aquí: [https://github.com/ClimChange-NewbornHealth/Lineamientos_colaboradores/blob/main/Plantilla_README.md?plain=1](https://github.com/ClimChange-NewbornHealth/Lineamientos_colaboradores/blob/main/Plantilla_README.md?plain=1)
 
