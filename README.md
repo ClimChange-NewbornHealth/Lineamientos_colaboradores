@@ -8,7 +8,7 @@ A continuación te dejamos lineamientos generales para la incorporación de proy
 
 ### Paso 1: Generar un repositorio
 
-![](/Images/repo1.png){:height="36px" width="36px"}.
+![](/Images/repo1.png){height=400px width=500px}
 
 ### Paso 2: Definir un repositorio
 
