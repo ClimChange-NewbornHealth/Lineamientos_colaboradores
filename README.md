@@ -56,12 +56,12 @@ El README es una descripción del proyecto y su contenido:
 
 ![](/Images/readme.png)
 
-1. Título: claro, preciso. Idealmente el título del artículo.
-2. Métricas del repositorio y financiamiento: revisar plantilla.
-3. Autores: Autor principal dejar casilla de correo + co-investigadores + Mantenedor/a del repositorio.
-4. Descripción del repositorio: background general + objetivos + métodos + discusión. Obtener esto del abstract.
-5. Acceso a los datos: link a los datos y señalar los códigos a ejecutar. Los datos deben estar en otro espacio y deben ser principalmente datos de análisis. 
-6. Principales resultados: figuras y tablas numeradas y con notas explicativas de ser el caso. 
+1. **Título**: claro, preciso. Idealmente el título del artículo.
+2. **Métricas del repositorio y financiamiento**: revisar plantilla.
+3. **Autores**: Autor principal dejar casilla de correo + co-investigadores + Mantenedor/a del repositorio.
+4. **Descripción del repositorio**: background general + objetivos + métodos + discusión. Obtener esto del abstract.
+5. **Acceso a los datos**: link a los datos y señalar los códigos a ejecutar. Los datos deben estar en otro espacio y deben ser principalmente datos de análisis. 
+6. **Principales resultados**: figuras y tablas numeradas y con notas explicativas de ser el caso. 
 
 Puedes encontrar una plantilla aquí: [https://github.com/ClimChange-NewbornHealth/Lineamientos_colaboradores/blob/main/Plantilla_README.md?plain=1](https://github.com/ClimChange-NewbornHealth/Lineamientos_colaboradores/blob/main/Plantilla_README.md?plain=1)
 
@@ -71,6 +71,6 @@ En el repositorio solo estarán disponibles todos los códigos para replicar los
 
 Puede revisar un ejemplo aquí: [https://github.com/ClimChange-NewbornHealth/CIIIA-ClimateBirthWeightAnalysis](https://github.com/ClimChange-NewbornHealth/CIIIA-ClimateBirthWeightAnalysis)
 
-!["/Images/data1.png"]("/Images/data1.png")
+![](/Images/data1.png)
 
-!["/Images/data2.png"]("/Images/data2.png")
+![](/Images/data2.png)
