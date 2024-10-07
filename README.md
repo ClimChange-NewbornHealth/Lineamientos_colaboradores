@@ -8,8 +8,6 @@ A continuación te dejamos lineamientos generales para la incorporación de proy
 
 ### Paso 1: Generar un repositorio
 
-<img src="/Images/repo1.png" width="1200" heigth="1200" />
-
 ![](/Images/repo1.png)
 
 ### Paso 2: Definir un repositorio
